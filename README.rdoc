@@ -2,4 +2,4 @@
 
 Converts all Redmine[http://www.redmine.org]'s dropdowns to searchable Select2[http://ivaynberg.github.com/select2] comboboxes.
 
-Based on [redmine_improved_searchbox](https://github.com/ries-tech/redmine_improved_searchbox).
+Based on redmine_improved_searchbox[https://github.com/ries-tech/redmine_improved_searchbox].
